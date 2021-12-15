@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "151b96fb-1579-4d41-ad28-b4720cd59f88": {
+      "ProjectGuid": "151b96fb-1579-4d41-ad28-b4720cd59f88",
+      "DisplayName": "GerenciadorDeTarefas.API",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
